@@ -1,0 +1,102 @@
+<list>
+  <projeto1.Locacao>
+    <codigo>1</codigo>
+    <data>20/08/2019</data>
+    <cliente>Leonardo José</cliente>
+    <cpfcliente>2392</cpfcliente>
+    <total>3000.0</total>
+    <v>
+      <placa>89234</placa>
+      <ano>2009</ano>
+      <cliente>Leonardo José</cliente>
+      <marca>Chevrolet</marca>
+      <modelo>Camaro</modelo>
+      <ListaLocacao>
+        <projeto1.Locacao>
+          <codigo>1</codigo>
+          <data>20/08/2019</data>
+          <cliente>Leonardo José</cliente>
+          <cpfcliente>2392</cpfcliente>
+          <total>30000.0</total>
+          <v reference="../../.."/>
+        </projeto1.Locacao>
+        <projeto1.Locacao reference="../../.."/>
+      </ListaLocacao>
+    </v>
+  </projeto1.Locacao>
+  <projeto1.Locacao>
+    <codigo>2</codigo>
+    <data>09/10/2019</data>
+    <cliente>Pedro Augusto</cliente>
+    <cpfcliente>4329</cpfcliente>
+    <total>5000.0</total>
+    <v>
+      <placa>123456</placa>
+      <ano>2008</ano>
+      <cliente>Pedro Augusto</cliente>
+      <marca>Audi</marca>
+      <modelo>AudiAG</modelo>
+      <ListaLocacao>
+        <projeto1.Locacao>
+          <codigo>2</codigo>
+          <data>09/10/2019</data>
+          <cliente>Pedro Augusto</cliente>
+          <cpfcliente>43292349</cpfcliente>
+          <total>50000.0</total>
+          <v reference="../../.."/>
+        </projeto1.Locacao>
+        <projeto1.Locacao>
+          <codigo>2</codigo>
+          <data>09/10/2019</data>
+          <cliente>Pedro Augusto</cliente>
+          <cpfcliente>43292349</cpfcliente>
+          <total>5000.0</total>
+          <v reference="../../.."/>
+        </projeto1.Locacao>
+        <projeto1.Locacao reference="../../.."/>
+        <projeto1.Locacao>
+          <codigo>1</codigo>
+          <data>13</data>
+          <cliente>d</cliente>
+          <cpfcliente>dsa</cpfcliente>
+          <total>12.0</total>
+          <v reference="../../.."/>
+        </projeto1.Locacao>
+      </ListaLocacao>
+    </v>
+  </projeto1.Locacao>
+  <projeto1.Locacao>
+    <codigo>3</codigo>
+    <data>21/05/2018</data>
+    <cliente>Wesley Preres</cliente>
+    <cpfcliente>4231</cpfcliente>
+    <total>3500.0</total>
+    <v>
+      <placa>89382</placa>
+      <ano>2019</ano>
+      <cliente>Wesley Preres</cliente>
+      <marca>BMW</marca>
+      <modelo>BMW</modelo>
+      <ListaLocacao>
+        <projeto1.Locacao reference="../../.."/>
+      </ListaLocacao>
+    </v>
+  </projeto1.Locacao>
+  <projeto1.Locacao>
+    <codigo>4</codigo>
+    <data>20/06/2005</data>
+    <cliente>Ronaldo Silva</cliente>
+    <cpfcliente>2133</cpfcliente>
+    <total>1500.0</total>
+    <v>
+      <placa>21321</placa>
+      <ano>1999</ano>
+      <cliente>Ronaldo Silva</cliente>
+      <marca>Chevrolet</marca>
+      <modelo>Chevette</modelo>
+      <ListaLocacao>
+        <projeto1.Locacao reference="../../.."/>
+      </ListaLocacao>
+    </v>
+  </projeto1.Locacao>
+</list>

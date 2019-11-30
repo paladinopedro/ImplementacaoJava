@@ -1,0 +1,34 @@
+<list>
+  <projeto1.Veiculo>
+    <placa>123456</placa>
+    <ano>2008</ano>
+    <cliente>Pedro Augusto</cliente>
+    <marca>Audi</marca>
+    <modelo>AudiAG</modelo>
+    <ListaLocacao/>
+  </projeto1.Veiculo>
+  <projeto1.Veiculo>
+    <placa>89382</placa>
+    <ano>2019</ano>
+    <cliente>Wesley Preres</cliente>
+    <marca>BMW</marca>
+    <modelo>BMW</modelo>
+    <ListaLocacao/>
+  </projeto1.Veiculo>
+  <projeto1.Veiculo>
+    <placa>89234</placa>
+    <ano>2009</ano>
+    <cliente>Leonardo José</cliente>
+    <marca>Chevrolet</marca>
+    <modelo>Camaro</modelo>
+    <ListaLocacao/>
+  </projeto1.Veiculo>
+  <projeto1.Veiculo>
+    <placa>21321</placa>
+    <ano>1999</ano>
+    <cliente>Ronaldo Silva</cliente>
+    <marca>Chevrolet</marca>
+    <modelo>Chevette</modelo>
+    <ListaLocacao/>
+  </projeto1.Veiculo>
+</list>
